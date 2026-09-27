@@ -110,12 +110,13 @@ const tohir = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sadriddinovtohir&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadriddinovtohir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadriddinovtohir&theme=tokyonight" />
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadriddinovtohir&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadriddinovtohir&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadriddinovtohir&theme=tokyonight" />
 
 <img src="https://streak-stats.demolab.com?user=sadriddinovtohir&theme=tokyonight&hide_border=true" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sadriddinovtohir&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
