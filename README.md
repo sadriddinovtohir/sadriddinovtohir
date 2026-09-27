@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=200&section=header&text=Tohirbek%20Sadriddinov&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=200&section=header&text=Tohirbek%20Sadriddinov&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Backend%20%E2%80%A2%20Telegram%20Bots&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://rezumi2.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=640&lines=Building+scalable%2C+maintainable+web+products;Clean+architecture+%E2%80%A2+Reusable+components;From+pixel-perfect+UI+to+production+REST+APIs;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=640&lines=Software+Engineer+%E2%80%94+Web+%E2%80%A2+Mobile+%E2%80%A2+Backend;Telegram+bots+%26+Mini+Apps+%E2%80%A2+Automation;Building+scalable%2C+maintainable+systems;Clean+architecture+%E2%80%A2+Reusable+components;From+pixel-perfect+UI+to+production+REST+APIs;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <p>
@@ -26,14 +26,14 @@
 
 ```ts
 const tohir = {
-  role:        "Frontend Engineer (React / Next.js) · growing into Full-Stack",
+  role:        "Software Engineer — Web · Mobile · Backend · Telegram Bots · Systems",
   location:    "Tashkent, Uzbekistan 🇺🇿",
   experience:  "1+ year of commercial experience on real products",
   focus:       ["Scalable architecture", "Reusable UI systems", "Performance", "DX"],
-  currently:   ["Node.js + PostgreSQL backends", "SaaS development", "React Native"],
+  currently:   ["Full-stack SaaS systems", "React Native & Flutter apps", "Telegram bots & Mini Apps"],
   education:   ["IT Park", "Najot Ta'lim"],
   aiWorkflow:  "I drive Claude / Codex / Copilot with my own file structure & structured prompts — AI accelerates, I architect.",
-  openTo:      "Frontend / Full-Stack roles, freelance & product collaborations",
+  openTo:      "Software Engineer / Full-Stack roles, freelance & product collaborations",
 };
 ```
 
@@ -44,6 +44,15 @@ const tohir = {
 
 ---
 
+## 🧩 What I build
+
+| 🌐 Web | 📱 Mobile | ⚙️ Backend | 🤖 Telegram | 🏗️ Systems |
+|---|---|---|---|---|
+| SPAs, SSR sites, admin panels, landing pages | Cross‑platform iOS & Android apps | REST APIs, auth, databases, caching | Bots, Mini Apps, order & notification flows | SaaS, CRM / LMS, role‑based platforms |
+| React · Next.js · TypeScript | React Native · Flutter | Node.js · Express · PostgreSQL · Redis | Telegram Bot API · Node.js | Docker · Prisma · Git |
+
+---
+
 ## 🛠️ Tech stack
 
 <div align="center">
@@ -51,6 +60,10 @@ const tohir = {
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,vite,sass&theme=dark" />
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio&theme=dark" />
 
 **Backend & Data**
 
@@ -66,6 +79,8 @@ const tohir = {
 |---|---|
 | **Core** | HTML5, CSS3 / BEM, Tailwind CSS, JavaScript (ES2023), TypeScript |
 | **Frameworks & State** | React, Next.js, React Native, Redux Toolkit, Zustand, TanStack Query |
+| **Mobile** | React Native, Flutter / Dart |
+| **Telegram** | Telegram Bot API, Telegram Mini Apps, bot automation |
 | **UI Libraries** | shadcn/ui, Ant Design, Material UI |
 | **Backend** | Node.js, Express.js, PostgreSQL, Prisma ORM, Redis, Zod, Swagger / OpenAPI |
 | **Security** | JWT + refresh‑token rotation, Argon2, Helmet, CORS, rate limiting |
@@ -85,11 +100,12 @@ const tohir = {
 | **[Sun Energy Admin](https://quyosh-panellari-admin.netlify.app/)** · [repo](https://github.com/MaxmudAxmedov/admin-sun-energy) | Admin panel for a solar‑panel company. Reusable frontend architecture and close backend collaboration improved performance and UX. | React · Next.js · TanStack Query · Tailwind |
 | **[IT Park](https://www.it-park.uz/)** | Worked in a team on real products, growing frontend skills and delivering useful digital services. | Frontend · Teamwork |
 
-### 🤖 Backend / Full‑stack
+### ⚙️ Backend, Mobile & Bots
 
 | Project | Description | Stack |
 |---|---|---|
 | **Enterprise REST API** | Production‑grade REST API: JWT + Argon2, SHA‑256 refresh‑token rotation, Redis sessions, Helmet, CORS allow‑list, rate limiting, full Zod DTO validation, Pino logging, Swagger docs, Docker Compose — **all tests passing ✅** | Node.js · Express · TypeScript · PostgreSQL · Prisma · Redis · Docker |
+| **[WebOrderBot](https://github.com/sadriddinovtohir/WebOrderBot)** | Telegram bot for taking and managing orders right inside Telegram. | Telegram Bot API · Node.js |
 | **React Native App** | Cross‑platform iOS/Android app with reusable components, navigation and REST API integration. | React Native · TypeScript |
 
 ### 🎨 Landing pages & websites
